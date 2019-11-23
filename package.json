@@ -1,0 +1,25 @@
+{
+  "name": "productpracticescanvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PPCanvas/ProductPracticesCanvas.git"
+  },
+  "keywords": [
+    "ppc",
+    "canvas",
+    "practices",
+    "productpracticescanvas"
+  ],
+  "author": "Daan & Pascal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PPCanvas/ProductPracticesCanvas/issues"
+  },
+  "homepage": "https://github.com/PPCanvas/ProductPracticesCanvas#readme"
+}
